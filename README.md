@@ -32,7 +32,7 @@ Clone o projeto e execute o comando no diretório raiz:
 ```
 npm  install
 ```
-## ☕ Usando Schedly
+## ☕ Usando Agenda
 
 #### Execute este comando em seu CMD no caminho ./src:
 ```
